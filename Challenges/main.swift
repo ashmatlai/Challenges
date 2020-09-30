@@ -179,10 +179,9 @@ assert(challenge11(first: "clamp", second: "maple") == false, "Challenge 11 fail
 
 // MARK:- Challenge 12: Find longest prefix
 
-//func challenge12(input: String) -> String {
+func challenge12(input: String) -> String {
 //    let arr = input.components(separatedBy: " ")
-//    let result = ""
-//    for elem in arr {
-//
-//    }
-//}
+    let result = ""
+
+    return result
+}
